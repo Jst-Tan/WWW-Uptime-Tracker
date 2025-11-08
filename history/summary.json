@@ -106,7 +106,8 @@
     "timeMonth": 86,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2025-11-07": 1412,
+      "2025-11-08": 70,
+      "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
@@ -187,19 +188,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/roblox.com.ico",
     "slug": "roblox",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 399,
     "timeDay": 524,
     "timeWeek": 424,
     "timeMonth": 399,
     "timeYear": 399,
-    "dailyMinutesDown": {
-      "2025-11-07": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CoinMarketCap",
