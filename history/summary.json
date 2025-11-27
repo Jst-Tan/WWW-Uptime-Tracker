@@ -106,7 +106,7 @@
     "timeMonth": 79,
     "timeYear": 83,
     "dailyMinutesDown": {
-      "2025-11-27": 73,
+      "2025-11-27": 930,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -170,7 +170,7 @@
     "url": "https://x.com/",
     "icon": "https://icons.duckduckgo.com/ip3/x.com.ico",
     "slug": "twitter-x",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
