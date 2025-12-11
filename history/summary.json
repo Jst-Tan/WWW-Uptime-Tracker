@@ -106,7 +106,7 @@
     "timeMonth": 81,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2025-12-11": 78,
+      "2025-12-11": 1252,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -204,18 +204,20 @@
     "url": "https://github.com",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 74,
-    "timeWeek": 137,
-    "timeMonth": 172,
-    "timeYear": 182,
-    "dailyMinutesDown": {}
+    "time": 180,
+    "timeDay": 75,
+    "timeWeek": 129,
+    "timeMonth": 168,
+    "timeYear": 180,
+    "dailyMinutesDown": {
+      "2025-12-11": 0
+    }
   },
   {
     "name": "Roblox",
