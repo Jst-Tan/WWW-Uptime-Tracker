@@ -113,7 +113,7 @@
     "timeMonth": 85,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2025-12-19": 465,
+      "2025-12-19": 514,
       "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
@@ -240,19 +240,19 @@
     "url": "https://roblox.com",
     "icon": "https://icons.duckduckgo.com/ip3/roblox.com.ico",
     "slug": "roblox",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "89.39%",
-    "uptimeWeek": "98.48%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.82%",
-    "time": 455,
-    "timeDay": 1417,
-    "timeWeek": 856,
-    "timeMonth": 529,
-    "timeYear": 455,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "86.02%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.77%",
+    "time": 451,
+    "timeDay": 1207,
+    "timeWeek": 797,
+    "timeMonth": 518,
+    "timeYear": 451,
     "dailyMinutesDown": {
-      "2025-12-19": 153
+      "2025-12-19": 202
     }
   },
   {
