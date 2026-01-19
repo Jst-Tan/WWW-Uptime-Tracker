@@ -65,9 +65,9 @@
     "url": "https://facebook.com",
     "icon": "https://icons.duckduckgo.com/ip3/facebook.com.ico",
     "slug": "facebook",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,7 +76,9 @@
     "timeWeek": 890,
     "timeMonth": 714,
     "timeYear": 624,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-19": 0
+    }
   },
   {
     "name": "PayPal",
@@ -115,7 +117,7 @@
     "timeMonth": 89,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2026-01-19": 85,
+      "2026-01-19": 340,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
       "2026-01-16": 1440,
@@ -282,12 +284,12 @@
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.50%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.83%",
     "time": 438,
     "timeDay": 306,
     "timeWeek": 399,
-    "timeMonth": 532,
+    "timeMonth": 422,
     "timeYear": 438,
     "dailyMinutesDown": {
       "2025-12-19": 221
