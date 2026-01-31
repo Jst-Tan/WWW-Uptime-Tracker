@@ -118,7 +118,7 @@
     "timeMonth": 90,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2026-01-31": 713,
+      "2026-01-31": 757,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -229,19 +229,19 @@
     "url": "https://huzzler.so/",
     "icon": "https://icons.duckduckgo.com/ip3/huzzler.so.ico",
     "slug": "huzzler-so",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1144,
-    "timeDay": 814,
-    "timeWeek": 1068,
-    "timeMonth": 1025,
-    "timeYear": 1144,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "96.93%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.97%",
+    "time": 1140,
+    "timeDay": 802,
+    "timeWeek": 1036,
+    "timeMonth": 1018,
+    "timeYear": 1140,
     "dailyMinutesDown": {
-      "2026-01-31": 0
+      "2026-01-31": 44
     }
   },
   {
