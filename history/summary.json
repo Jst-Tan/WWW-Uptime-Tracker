@@ -48,9 +48,9 @@
     "url": "https://bsky.app/",
     "icon": "https://icons.duckduckgo.com/ip3/bsky.app.ico",
     "slug": "bluesky-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -59,7 +59,9 @@
     "timeWeek": 199,
     "timeMonth": 161,
     "timeYear": 177,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-25": 0
+    }
   },
   {
     "name": "Facebook",
@@ -119,7 +121,7 @@
     "timeMonth": 88,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2026-04-25": 121,
+      "2026-04-25": 247,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
