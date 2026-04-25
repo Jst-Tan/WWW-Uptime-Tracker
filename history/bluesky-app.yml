@@ -1,7 +1,7 @@
 url: https://bsky.app/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-04-25T04:07:02.998Z
+status: up
+code: 200
+responseTime: 134
+lastUpdated: 2026-04-25T05:56:33.007Z
 startTime: 2025-10-20T11:58:10.614Z
 generator: Upptime <https://github.com/upptime/upptime>
