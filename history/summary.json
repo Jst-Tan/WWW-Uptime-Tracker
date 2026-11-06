@@ -90,19 +90,20 @@
     "url": "https://www.paypal.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.paypal.com.ico",
     "slug": "pay-pal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 590,
-    "timeDay": 421,
-    "timeWeek": 563,
-    "timeMonth": 440,
-    "timeYear": 583,
+    "timeDay": 386,
+    "timeWeek": 536,
+    "timeMonth": 437,
+    "timeYear": 582,
     "dailyMinutesDown": {
-      "2025-12-17": 15
+      "2025-12-17": 15,
+      "2026-11-06": 0
     }
   },
   {
@@ -394,7 +395,7 @@
       "2026-08-02": 1440,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
-      "2026-11-06": 289,
+      "2026-11-06": 1100,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
